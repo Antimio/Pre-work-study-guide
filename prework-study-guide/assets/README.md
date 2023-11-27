@@ -2,8 +2,6 @@
 
 ## A study guide is to help me retain more information as I go through the course.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This project was carried out to make it easier to retain information regarding the differrent technologies that will be learnt in this bootcamp.
 The page was built both to aid in the above mentioned endevour and to provide primer knowledge of the main thechnique and thechnologies that will be delved into through this programme.
 The page created assists the human memory by serving as a dynamic repository of knowledge, which can be perseived as being overwhelming due to the structure and pace of the course.
